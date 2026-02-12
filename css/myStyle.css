@@ -1,0 +1,49 @@
+header{
+    background-image: url('../image/fondo2.jpg');
+    padding: 20px 0;
+    color: #ffffff;
+    text-align: center;
+}
+.opciones{
+    background-color: #171717;
+    color: #e8be05;
+}
+.opciones option{
+    background-color: #171717;
+    color: #e8be05;
+}
+.busqueda input{
+    background-color: rgb(227, 213, 17);
+    color: white;
+}
+.card {
+    background-color: #171717;
+    color: #e8be05;
+}
+.modal-content {
+    background-color: #171717;
+    color: #e8be05;
+}
+body{
+    background-image: url('../image/fondo1.jpg');
+}
+.card .casa {
+    color: #fefefe;
+    font-style: italic;
+}
+.btn {
+    background-color: #1d1345;
+    color: #ffffff;
+    border: none;
+}
+.btn:hover {
+    background-color: #f1c40f;
+    color: #05002e;
+}
+.alert {
+    background-color: #c4c409;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
